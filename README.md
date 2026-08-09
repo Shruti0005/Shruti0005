@@ -13,7 +13,6 @@ I work with technologies including **Python, Java, SQL, HTML, CSS, JavaScript, A
 * **Database:** SQL
 * **Cloud:** AWS
 * **DevOps & Tools:** Git, GitHub, Linux, Docker, CI/CD
-* **Networking:** TCP/IP, DNS, HTTP/HTTPS, IP Addressing, Subnetting, VPN, NAT
 * **Core Concepts:** OOP, Data Structures, Cloud Computing, Networking, Software Development
 
 ## ☁️ Cloud & DevOps
@@ -45,7 +44,6 @@ My goal is to combine my **software development, cloud, and DevOps skills** to b
 
 I believe that good technical skills come from **understanding the fundamentals, building real projects, making mistakes, solving problems, and continuously improving**.
 
----
 
 ### 🤝 Let's Connect
 
