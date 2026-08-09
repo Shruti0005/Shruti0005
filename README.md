@@ -44,7 +44,7 @@ My goal is to combine my **software development, cloud, and DevOps skills** to b
 
 I believe that good technical skills come from **understanding the fundamentals, building real projects, making mistakes, solving problems, and continuously improving**.
 
-
+--
 ### 🤝 Let's Connect
 
 I'm always interested in learning, building, and connecting with people who are passionate about technology.
